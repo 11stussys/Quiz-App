@@ -8,4 +8,19 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+	<!-- TextView Style -->
+	<style name="textViewStyle" parent="AppTheme">
+		<item name="android:layout_gravity">center_vertical</item>
+		<item name="android:gravity">center</item>
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">match_parent</item>
+		<item name="android:textColor">@color/textColor</item>
+	</style>
+
+	<!-- Splash Style-->
+	<style name="Mytheme.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="android:windowBackground">@drawable/splash</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFullscreen">true</item>
+	</style>
 </resources>

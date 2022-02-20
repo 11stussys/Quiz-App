@@ -59,11 +59,8 @@
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:layout_gravity="center_vertical"
-                        android:gravity="center"
-                        android:text="History"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"/>
+                        style="@style/textViewStyle"
+                        android:text="History"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -93,11 +90,8 @@
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:layout_gravity="center_vertical"
-                        android:gravity="center"
-                        android:text="Geography"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"/>
+                        style="@style/textViewStyle"
+                        android:text="Geography"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -130,11 +124,8 @@
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:layout_gravity="center_vertical"
-                        android:gravity="center"
-                        android:text="Space"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"/>
+                        style="@style/textViewStyle"
+                        android:text="Space"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -165,11 +156,8 @@
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:layout_gravity="center_vertical"
-                        android:gravity="center"
-                        android:text="Engineering"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"/>
+                        style="@style/textViewStyle"
+                        android:text="Engineering"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -202,11 +190,8 @@
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:layout_gravity="center_vertical"
-                        android:gravity="center"
-                        android:text="Programming"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"/>
+                        style="@style/textViewStyle"
+                        android:text="Programming"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -237,11 +222,8 @@
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:layout_gravity="center_vertical"
-                        android:gravity="center"
-                        android:text="Business"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"/>
+                        style="@style/textViewStyle"
+                        android:text="Business"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
