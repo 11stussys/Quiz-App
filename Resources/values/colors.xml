@@ -6,4 +6,7 @@
 	<color name="colorBackground">#dbdbdb</color>
 	<color name="colorLine">#e2e2e2</color>
 	<color name="textColor">#808080</color>
+	<color name="AccentDark">#0979b3</color>
+	<color name="green">#18d97b</color>
+	<color name="greenDark">#0F9D58</color>
 </resources>
